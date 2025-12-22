@@ -1,0 +1,8 @@
+question,answer,correct_feedback,incorrect_feedback,hint
+"每次上課點名 6 次？ (O/X)","O","答對了！點名很重要喔！","不對喔，是 6 次才對。","提示：就是 6 次。"
+"這學期是用 Sublime Text 寫程式？ (O/X)","X","完全正確！我們用的是 VS Code！","不對喔，我們是用 Visual Studio Code。","提示：一個藍色圖標的程式。"
+"我們是用 HackMD 來記筆記？ (O/X)","O","答對了！HackMD 很好用！","不對喔，我們是用 HackMD。","提示：一個可以共同編輯的筆記網站。"
+"點名是用學校的 Moodle 系統？ (O/X)","X","沒錯！我們是用 iclass 點名。","不對喔，是 iclass 才對。","提示：一個 i 開頭的 App。"
+"我們是用 GitHub Copilot 這個 AI 輔助寫程式？ (O/X)","O","答對了！AI 是你的好夥伴！","不對喔，是 GitHub Copilot。","提示：一個 G 開頭的平台提供的 AI。"
+"用電腦點名時，需要輸入 IP 位址？ (O/X)","O","完全正確！","不對喔，是輸入 IP 位址。","提示：一組數字，代表電腦在網路上的位置。"
+"用手機點名時，是掃描 QR code？ (O/X)","O","答對了！手機點名很方便！","不對喔，是掃描 QR code。","提示：一個黑白相間的方塊圖案。"
